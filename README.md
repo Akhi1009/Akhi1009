@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Akhila
 - 👀 I’m interested in Machine Learning and Data science
-- 🌱 I’m currently doing my masters in Business Analytics ...
 - 💞️ I’m looking to collaborate on Data related projects
 - 📫 you can reach me at akhilarondla1009@gmail.com
 - 😄 Pronouns: she/her
